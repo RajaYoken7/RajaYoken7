@@ -22,6 +22,6 @@ Software Engineer @ Zoho Corporation
 
 
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/RajaYokenSSR?theme=dark&font=Sarpanch&ext=heatmap)](https://leetcode.com/hareeshprogrammer)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/RajaYokenSSR?theme=dark&font=Sarpanch&ext=heatmap)](https://leetcode.com/RajaYokenSSR)
 
 [![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RajaYoken7&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/RajaYoken7/github-readme-activity-graph-main/tree/main/github-readme-activity-graph-main)
